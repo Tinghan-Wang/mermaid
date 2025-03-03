@@ -1,0 +1,9 @@
+```mermaid
+gantt
+    title 作業人員: 魏良旺 的時間序列圖
+    dateFormat  HH:mm:ss
+    section 準備階段
+    2組EDPR夾具放在推車上，未開始執行夾片 :active, a1, 2023-08-15 07:02:25, 18s, #FFD700
+    2組EDPR夾具放在推車上，開始執行夾片 :active, a2, 2023-08-15 07:02:43, 19s, #90EE90
+    2組EDPR夾具放在推車上，開始執行夾片，並發現裂片 :active, a3, 2023-08-15 07:03:02, 7s, #FF6347
+    2組EDPR夾具放在推車上，拿取Wafer異常位置mapping的圖表 :active, a4, 2023-08-15 07:03:09, 1s, #ADD8E6
